@@ -13,12 +13,9 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
-  <Head></Head>
-  <Main></Main>
-    
-  <Footer></Footer>
-    
- 
+    <Head></Head>
+    <Main></Main>      
+    <Footer></Footer> 
   </BrowserRouter>
 );
 
