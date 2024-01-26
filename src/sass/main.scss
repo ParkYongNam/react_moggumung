@@ -1,0 +1,47 @@
+
+#Gnb li a{
+    font-family: "Nanum Pen Script";
+    font-size: 1.5rem;
+}
+
+.text-box1{
+    width: 300px;
+    height: 100px;
+    font-family: "Nanum Pen Script";
+    font-size: 1.5rem;
+    color: white;
+    border-top: 2px solid white;   
+    padding-top: 2rem;
+    svg{
+        margin-left: 5rem;
+        width:2rem;
+    }
+}
+.text-box1 p{
+    padding-right:2rem;
+    
+}
+.banner{
+   position: absolute;
+   right: 5%;
+   top: 5%;
+}
+.banner img{
+    z-index: 10;
+    position: sticky;
+    margin-top: auto;
+    left: 87% ;
+    top: 50%;
+    max-width: 100%;
+    width: 150px;
+    height: 210px;
+}
+
+.maintext{
+    font-family:'Nanum Pen Script' ;
+    font-size: 50px;
+    line-height: 80px;
+    color: white;
+    
+   
+}
